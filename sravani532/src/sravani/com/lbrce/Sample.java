@@ -1,8 +1,7 @@
 package sravani.com.lbrce;
 
 public class Sample {
-public static void main(String args[])
-{
-	System.out.println("sravani");
-}
+	public static void main(String args[]) {
+		System.out.println("sravani edited");
+	}
 }
